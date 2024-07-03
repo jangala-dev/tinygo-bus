@@ -1,9 +1,10 @@
 package bus
 
 import (
-	"dc-demo/trie"
 	"errors"
 	"time"
+
+	trie "github.com/jangala-dev/tinygo-trie"
 )
 
 const (
